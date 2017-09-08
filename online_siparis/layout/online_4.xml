@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+         <TextView
+        android:id="@+id/basliktxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BILGI GUNCELLE"
+        android:textSize="20dp"
+        android:gravity="center" >
+    </TextView>
+<EditText
+    android:id="@+id/editText1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:hint="Ad Soyad" >
+</EditText>
+<EditText
+    android:id="@+id/editText2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:hint="Telefon" >
+</EditText>
+<EditText
+    android:id="@+id/editText3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:hint="Sifre" >
+</EditText>
+<EditText
+    android:id="@+id/editText4"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:hint="email" >
+</EditText>
+<EditText
+    android:id="@+id/editText5"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:inputType="textMultiLine"
+    android:lines="3"
+    android:hint="Adres" >
+</EditText>
+<Button
+    android:id="@+id/button1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="GUNCELLE">
+</Button>
+</LinearLayout>

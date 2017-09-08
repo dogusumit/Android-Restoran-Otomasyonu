@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Online Siparis</string>
+    <string name="sunucu">http://websiparis.xyz</string>
+</resources>

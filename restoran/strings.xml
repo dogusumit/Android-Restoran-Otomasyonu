@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Restoran Otomasyonu</string>
+    <string name="sunucu">http://websiparis.xyz</string>
+    <string name="masa_adet">15</string>
+
+</resources>
